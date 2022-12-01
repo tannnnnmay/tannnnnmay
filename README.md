@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanmay
 - 👀 I’m interested in automation testing and new technologies associated with it.
 - - 🌱 I’m currently learning azure cloud fundamentals.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on automation testing projects
 - 📫 How to reach me tanmay.rewatkar@gmail.com
 
 <!---
